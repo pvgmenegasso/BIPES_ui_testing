@@ -1,0 +1,2 @@
+https://github.com/google/blockly.git
+https://github.com/micropython/webrepl.git
